@@ -1,0 +1,10 @@
+build/
+results/
+*.o
+*.a
+*.so
+*.pyc
+__pycache__/
+.vscode/
+.cache/
+compile_commands.json
